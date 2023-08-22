@@ -1,9 +1,9 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import Header from './components/header.jsx'
-import Body from './components/body.jsx'
-import Footer from './components/footer.jsx'
-import './index.css'
+import Header from './components/header'
+import Body from './components/body'
+import Footer from './components/footer'
+import './assets/index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>

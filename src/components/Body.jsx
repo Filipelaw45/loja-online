@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import './body.css';
+import '../assets/body.css';
 
 function Body() {
   const [compraMes, setCompraMes] = useState('');
